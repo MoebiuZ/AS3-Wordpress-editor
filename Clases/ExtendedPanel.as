@@ -17,7 +17,7 @@
 	public class ExtendedPanel extends MovieClip {
 		
 		// Configuracion
-		public const webURL = "http://www.lucanus.es"; 
+		public const webURL = "http://www.url.url"; 
 		public var usuario:String;
 		
 		private var _gridSize:Number;
